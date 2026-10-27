@@ -139,8 +139,8 @@ print(traversepath)
 
 ```
 ## OUTPUT: 
-<img width="1427" height="627" alt="image" src="https://github.com/user-attachments/assets/2e8f86a3-1a2b-405d-8e44-231423465db5" />
-<img width="963" height="517" alt="image" src="https://github.com/user-attachments/assets/a18db3aa-597d-4165-915b-74eaa61c1f1a" />
+<img width="1427" height="627" alt="image" src="https://github.com/user-attachments/assets/421e7e03-a8bc-4acd-b132-4c06d2ef25ec" />
+<img width="963" height="517" alt="image" src="https://github.com/user-attachments/assets/3860f52e-bf56-4ef5-a69e-acb2f4c560e9" />
 
 <h3>Result:</h3>
 <hr>
